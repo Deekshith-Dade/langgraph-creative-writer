@@ -9,8 +9,10 @@ the way to a revised story draft.
 - **Human‑in‑the‑loop** feedback influences story ideas and outlines.
 - A **Supervisor** node evaluates outlines before drafting.
 
-The graph is rendered in `writer_graph.png` and can be explored in the
+The graph is rendered below and can also be explored in the
 `writer.ipynb` notebook.
+
+![Writer graph](writer_graph.png)
 
 ## Setup
 1. Install Python 3.10+.

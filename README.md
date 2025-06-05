@@ -11,6 +11,10 @@ The underlying graph strings together several LLM powered nodes so a story can e
 5. **Draft writer** – produces a first draft from the approved outline.
 6. **Macro & micro editors** – give structural and line‑level feedback.
 7. **Revision orchestrator** – decides whether to loop back for another draft or finish the story.
+=======
+The graph coordinates multiple LLM driven nodes to iterate from a user query all
+the way to a revised story draft.
+
 
 ## Architecture
 - **ReAct style reasoning** powers decision making between nodes.
